@@ -11,7 +11,7 @@ package br.senac.tads;
  */
 public class Exercicio01 {
 
-    public static void Testestatic {
-        
+    public static void main(String[] args) {
+        System.out.println("Teste");
     }
 }
