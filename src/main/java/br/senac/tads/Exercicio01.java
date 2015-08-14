@@ -18,4 +18,7 @@ public class Exercicio01 {
         System.out.println("Teste2");
         return null;
     }
+    public String Teste2(){
+        return null;
+    }
 }
